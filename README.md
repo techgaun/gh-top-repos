@@ -10,7 +10,7 @@ Clone this repository and run:
 pip install -r requirements.txt
 ```
 
-#### Usage
+### Usage
 ```
 GH_USER  - Environment variable to specify github user
 GH_PWD   - Environment variable to specify password
