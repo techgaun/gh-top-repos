@@ -1,6 +1,6 @@
 # Github Top Repos
 
-> Get the most starred repositories in last X days
+> Get the most starred repositories among the ones created in last X days
 
 ### Installation
 This tool uses [github3.py](https://github.com/sigmavirus24/github3.py) to talk with GitHub Search API.
